@@ -1,0 +1,28 @@
+body{
+    background-color: darkslategrey;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.container{
+    width: 100%;
+    margin: 100px auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-30%,-50%);
+}
+
+h1{
+    color: #fff;
+    font-size: 80px;
+}
+
+button{
+
+    font-weight: 900;
+    padding: 10px;
+    font-size: 20px;
+}
